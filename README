@@ -1,0 +1,29 @@
+Box Office Analysis
+An analysis to rank the greatest box office movie using revenue, consumer price 
+index (CPI), and world population.
+
+Summary
+While the latest movies are constantly breaking box office records, does it 
+really reflect the bigger picture of a best box office movie of all time? By 
+standardizing revenue for box office movies with the average consumer price 
+index (CPI), and scaling revenue by a per world population rate, we can get a 
+better answer to the greatest box office movie of all time.
+
+The answer: Star Wars (1977)*
+
+Datasources:
+World Population by Year
+https://www.worldometers.info/world-population/world-population-by-year/
+'World Population by Year - Worldometers.html'
+
+Kaggle's TMDB 5000 Movie Dataset
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+Consumer Price Index Yearly Averages
+https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
+
+*aka Star Wars IV: A New Hope. The original film was simply titled "Star Wars" 
+on the crawl and on the poster, but during the 1981 re-release it added 
+"Episode IV: A New Hope" to the crawl at the start of the movie and it's been 
+named that ever since.
+https://www.starwars.com/news/the-star-wars-saga-us-release-and-re-release-history
